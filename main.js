@@ -1,4 +1,4 @@
-
+My name is kanji
 
     function getPassword() {
         let length = document.getElementById('length').value;
